@@ -28,6 +28,14 @@ Dubbelklik op het bestand om het te openen in je favoriete browser (Chrome, Safa
 
 Begin direct met invullen!
 
+⭐️ Wat kun je met deze resultaten?
+
+AI Loopbaan Coach: Klik op de paarse knop om een uitgebreide prompt met jouw data te genereren. ChatGPT opent automatisch; je hoeft alleen nog maar te plakken (Ctrl+V) voor direct advies.
+
+Kopieer Data: Gebruik de grijze knop om een samenvatting van je analyse te kopiëren voor je eigen archief of notities.
+
+Analyseren: Bekijk hieronder welke waarden in de Alarmfase zitten (actie vereist!) en welke je Energiebronnen zijn.
+
 
 🛠 Technologie
 
